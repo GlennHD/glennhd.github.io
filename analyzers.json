@@ -2866,7 +2866,7 @@
     "name": "MISP",
     "author": "Nils Kuhnert, CERT-Bund",
     "license": "AGPL-V3",
-    "url": "https://github.com/BSI-CERT-Bund/cortex-analyzers",
+    "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
     "version": "2.1",
     "description": "Query multiple MISP instances for events containing an observable.",
     "dataTypeList": [
@@ -2937,7 +2937,7 @@
     "name": "MISPWarningLists",
     "author": "Nils Kuhnert, CERT-Bund",
     "license": "AGPL-V3",
-    "url": "https://github.com/BSI-CERT-Bund/misp-warninglists-analyzer",
+    "url": "https://github.com/CERT-Bund/misp-warninglists-analyzer",
     "version": "2.0",
     "description": "Check IoCs/Observables against MISP Warninglists to filter false positives.",
     "dataTypeList": [
