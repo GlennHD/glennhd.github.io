@@ -2913,7 +2913,7 @@
         "type": "boolean",
         "multi": false,
         "required": true,
-        "defaultValue": true,
+        "defaultValue": true
       },
       {
         "name": "cert_check",
