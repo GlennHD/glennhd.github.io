@@ -2908,6 +2908,14 @@
         "required": true
       },
       {
+        "name": "warninglist_match",
+        "description": "Also query the MISP warninglist for matches",
+        "type": "boolean",
+        "multi": false,
+        "required": true,
+        "defaultValue": true,
+      },
+      {
         "name": "cert_check",
         "description": "Verify server certificate",
         "type": "boolean",
