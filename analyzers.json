@@ -2866,7 +2866,7 @@
     "name": "MISP",
     "author": "Nils Kuhnert, CERT-Bund",
     "license": "AGPL-V3",
-    "url": "https://github.com/TheHive-Project/Cortex-Analyzers",
+    "url": "https://github.com/GlennHD/Cortex-Analyzers",
     "version": "2.1",
     "description": "Query multiple MISP instances for events containing an observable.",
     "dataTypeList": [
